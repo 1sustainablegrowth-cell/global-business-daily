@@ -1,0 +1,8 @@
+EMAIL_USER = "303320969@qq.com"
+EMAIL_PASS = "kollpelvofvobhde"
+
+EMAIL_RECEIVERS = [
+    "303320969@qq.com"
+]
+
+GEMINI_API_KEY = "AQ.Ab8RN6Iqahes6Ng1dUugQKTKUQ2J3Ex0d6szccmmVkMcTNbT6A"
