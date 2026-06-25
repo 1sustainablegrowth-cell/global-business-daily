@@ -1,0 +1,43 @@
+{
+  "global_business": [
+    "https://www.bloomberg.com/feed",
+    "https://www.reuters.com/rssFeed/businessNews",
+    "https://www.ft.com/rss/home",
+    "https://www.economist.com/latest/rss.xml",
+    "https://www.businessinsider.com/rss"
+  ],
+
+  "china_business": [
+    "https://36kr.com/feed",
+    "https://www.huxiu.com/rss",
+    "https://www.tmtpost.com/rss",
+    "https://www.yicai.com/rss"
+  ],
+
+  "consulting": [
+    "https://www.mckinsey.com/feed",
+    "https://www.bcg.com/insights/rss",
+    "https://www.bain.com/insights/rss",
+    "https://www.deloitte.com/rss.xml"
+  ],
+
+  "marketing": [
+    "https://www.ogilvy.com/rss",
+    "https://www.marketingweek.com/feed",
+    "https://adage.com/rss",
+    "https://www.campaignasia.com/rss"
+  ],
+
+  "ai": [
+    "https://openai.com/blog/rss.xml",
+    "https://www.anthropic.com/news/rss",
+    "https://ai.meta.com/blog/rss",
+    "https://deepmind.google/discover/blog/rss"
+  ],
+
+  "consumer": [
+    "https://www.mckinsey.com/featured-insights/rss",
+    "https://www.kantar.com/rss",
+    "https://nielseniq.com/global/en/rss"
+  ]
+}
